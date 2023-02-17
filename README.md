@@ -1,1 +1,5 @@
-# c-programm
+#include<stdio.h>
+main()
+{
+printf("hello")
+}
